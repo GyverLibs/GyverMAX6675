@@ -1,0 +1,22 @@
+#######################################
+# Syntax Coloring Map for GyverMAX6675
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+GyverMAX6675	KEYWORD1
+GyverMAX6675_SPI	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+readTemp	KEYWORD2
+getTemp	KEYWORD2
+getTempInt	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+MAX6675_DELAY	LITERAL1
+MAX6675_SPI_SPEED	LITERAL1
