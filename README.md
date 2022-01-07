@@ -35,8 +35,8 @@
 <a id="init"></a>
 ## Инициализация
 ```cpp
-GyverMAX6675<CLK_PIN, DATA_PIN, CS_PIN> sens;	// программный SPI
-GyverMAX6675_SPI<CS_PIN> sens;					// аппаратный SPI
+GyverMAX6675<CLK_PIN, DATA_PIN, CS_PIN> sens;   // программный SPI
+GyverMAX6675_SPI<CS_PIN> sens;                  // аппаратный SPI
 ```
 
 <a id="usage"></a>
