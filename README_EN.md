@@ -1,3 +1,5 @@
+This is an automatic translation, may be incorrect in some places. See sources and examples!
+
 # GyverMAX6675
 Lightweight library for MAX6675 thermocouple driver
 - Read temperature in degrees Celsius
